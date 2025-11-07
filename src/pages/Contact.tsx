@@ -142,9 +142,9 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Address</h3>
                     <p className="text-muted-foreground">
-                      123 High Street<br />
-                      Witney, Oxfordshire<br />
-                      OX28 6AB, UK
+                      Becky's Bakery<br />
+                      Bondo, Siaya County<br />
+                      Kenya
                     </p>
                   </div>
                 </div>
@@ -154,13 +154,13 @@ const Contact = () => {
                     <Phone className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-muted-foreground">01993 123456</p>
+                    <h3 className="font-semibold mb-1">Phone & WhatsApp</h3>
+                    <p className="text-muted-foreground">+254 7XX XXX XXX</p>
                     <a
-                      href="https://wa.me/441993123456"
-                      className="text-primary hover:underline"
+                      href="https://wa.me/2547XXXXXXXX"
+                      className="text-primary hover:underline inline-flex items-center gap-1"
                     >
-                      WhatsApp us
+                      Chat on WhatsApp
                     </a>
                   </div>
                 </div>
@@ -187,9 +187,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Opening Hours</h3>
                     <div className="text-muted-foreground space-y-1">
-                      <p>Tuesday - Friday: 9:00 AM - 5:00 PM</p>
-                      <p>Saturday: 10:00 AM - 4:00 PM</p>
-                      <p>Sunday - Monday: Closed</p>
+                      <p>Monday - Saturday: 8:00 AM - 7:00 PM</p>
+                      <p>Sunday: 9:00 AM - 4:00 PM</p>
                     </div>
                   </div>
                 </div>
@@ -198,14 +197,14 @@ const Contact = () => {
               {/* Map */}
               <div className="rounded-lg overflow-hidden border border-border h-64">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39519.55187044754!2d-1.5096878!3d51.78450!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6a9ef8c485b%3A0x3e9f77a6f5a8f3a2!2sWitney%2C%20UK!5e0!3m2!1sen!2s!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63694.89384634433!2d34.2265!3d-0.2331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa4e1c4e2eaab%3A0x2e76e3d2f4c8e8a8!2sBondo%2C%20Kenya!5e0!3m2!1sen!2s!4v1234567890"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Becky's Bakery Location"
+                  title="Becky's Bakery Location - Bondo, Siaya County"
                 />
               </div>
             </div>

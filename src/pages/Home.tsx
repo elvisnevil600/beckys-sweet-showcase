@@ -28,10 +28,10 @@ const Home = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-7xl font-serif font-bold mb-6 tracking-tight">
-              Exquisite Cakes for Every Occasion
+              Every Cake Tells a Story — Made with Love by Becky
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 font-light">
-              Becky creates stunning custom cakes that taste as beautiful as they look. From weddings to birthdays, every cake is a masterpiece.
+              Becky creates stunning custom cakes that taste as beautiful as they look. From weddings to birthdays, every cake is a masterpiece crafted in Bondo, Siaya County.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" asChild className="text-lg px-8">
@@ -78,7 +78,7 @@ const Home = () => {
                 Meet Becky
               </h2>
               <p className="text-lg text-muted-foreground mb-4">
-                With over 15 years of experience, Becky has mastered the art of creating beautiful, delicious cakes. Her passion for baking started in childhood and has evolved into a thriving business serving Witney and surrounding areas.
+                With over 10 years of experience, Becky has mastered the art of creating beautiful, delicious cakes. Her passion for baking started in childhood and has evolved into a thriving business serving Bondo, Siaya County, and surrounding areas.
               </p>
               <p className="text-lg text-muted-foreground mb-6">
                 Whether you're celebrating a wedding, birthday, or any special occasion, Becky can create a custom cake that exceeds your expectations. Every design is unique and tailored to your vision.
@@ -89,7 +89,7 @@ const Home = () => {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-secondary/30 p-8 rounded-lg text-center">
-                <p className="text-4xl font-serif font-bold text-primary mb-2">15+</p>
+                <p className="text-4xl font-serif font-bold text-primary mb-2">10+</p>
                 <p className="text-muted-foreground">Years Experience</p>
               </div>
               <div className="bg-secondary/30 p-8 rounded-lg text-center">
