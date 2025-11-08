@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import { Instagram, Facebook } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 
@@ -16,16 +15,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-4">
               <a
-                href="https://instagram.com/beckysbakery"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-muted-foreground hover:text-primary transition-colors"
-                aria-label="Follow us on Instagram"
-              >
-                <Instagram size={24} />
-              </a>
-              <a
-                href="https://wa.me/2547XXXXXXXX"
+                href="https://wa.me/254727252010"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -118,16 +108,7 @@ const Footer = () => {
           </p>
           <div className="flex items-center gap-4">
             <a
-              href="https://instagram.com/beckysbakery"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-muted-foreground hover:text-primary transition-colors"
-              aria-label="Follow us on Instagram"
-            >
-              <Instagram size={20} />
-            </a>
-            <a
-              href="https://wa.me/2547XXXXXXXX"
+              href="https://wa.me/254727252010"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"

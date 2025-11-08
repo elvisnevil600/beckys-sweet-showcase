@@ -155,9 +155,9 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Phone & WhatsApp</h3>
-                    <p className="text-muted-foreground">+254 7XX XXX XXX</p>
+                    <p className="text-muted-foreground">+254 727 252010</p>
                     <a
-                      href="https://wa.me/2547XXXXXXXX"
+                      href="https://wa.me/254727252010"
                       className="text-primary hover:underline inline-flex items-center gap-1"
                     >
                       Chat on WhatsApp
@@ -172,10 +172,10 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
                     <a
-                      href="mailto:hello@beckysbakery.co.uk"
+                      href="mailto:beckycakes@gmail.com"
                       className="text-primary hover:underline"
                     >
-                      hello@beckysbakery.co.uk
+                      beckycakes@gmail.com
                     </a>
                   </div>
                 </div>
